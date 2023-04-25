@@ -1,0 +1,45 @@
+title {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    }
+
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+} 
+
+h2 {
+    font-size: 18px;
+    font-style: italic;
+    color: crimson;
+}
+
+.A {
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 18px;
+}
+
+.B {
+    font-size: 18px;
+    width: 100%;
+    font-style: italic;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+li {
+    font-size: 15px;
+    color: black;
+}
+
+h4 {
+    font-size: 13px;
+    color: black;
+    font-weight: lighter;
+    background-color: lightgray;
+}
